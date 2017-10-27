@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		840C34161FA32EAD0007DA1F /* ChessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840C34151FA32EAD0007DA1F /* ChessViewController.swift */; };
 		845F6E171FA31B50007877B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845F6E161FA31B50007877B9 /* AppDelegate.swift */; };
 		845F6E191FA31B50007877B9 /* SmileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845F6E181FA31B50007877B9 /* SmileViewController.swift */; };
 		845F6E1C1FA31B50007877B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 845F6E1A1FA31B50007877B9 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		840C34151FA32EAD0007DA1F /* ChessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChessViewController.swift; sourceTree = "<group>"; };
 		845F6E131FA31B50007877B9 /* AutoLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		845F6E161FA31B50007877B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		845F6E181FA31B50007877B9 /* SmileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmileViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				845F6E161FA31B50007877B9 /* AppDelegate.swift */,
+				840C34151FA32EAD0007DA1F /* ChessViewController.swift */,
 				845F6E181FA31B50007877B9 /* SmileViewController.swift */,
 				845F6E1A1FA31B50007877B9 /* Main.storyboard */,
 				845F6E1D1FA31B50007877B9 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			files = (
 				845F6E191FA31B50007877B9 /* SmileViewController.swift in Sources */,
 				845F6E171FA31B50007877B9 /* AppDelegate.swift in Sources */,
+				840C34161FA32EAD0007DA1F /* ChessViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
