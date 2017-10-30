@@ -208,7 +208,8 @@
                         <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="A6j-eC-7HN" firstAttribute="top" secondItem="YSA-Le-CzB" secondAttribute="top" constant="20" id="Hw6-se-2zJ"/>
-                            <constraint firstItem="YSA-Le-CzB" firstAttribute="trailing" secondItem="A6j-eC-7HN" secondAttribute="trailing" constant="20" id="R8a-g6-0us"/>
+                            <constraint firstItem="I7O-mu-Aix" firstAttribute="top" relation="greaterThanOrEqual" secondItem="A6j-eC-7HN" secondAttribute="bottom" constant="20" id="Nyv-7Q-xdT"/>
+                            <constraint firstItem="YSA-Le-CzB" firstAttribute="trailing" secondItem="A6j-eC-7HN" secondAttribute="trailing" priority="500" constant="20" id="R8a-g6-0us"/>
                             <constraint firstItem="I7O-mu-Aix" firstAttribute="centerX" secondItem="z5I-iH-Ltl" secondAttribute="centerX" id="iiv-gg-l66"/>
                             <constraint firstItem="A6j-eC-7HN" firstAttribute="leading" secondItem="YSA-Le-CzB" secondAttribute="leading" constant="20" id="rfP-vp-3wP"/>
                             <constraint firstItem="YSA-Le-CzB" firstAttribute="bottom" secondItem="I7O-mu-Aix" secondAttribute="bottom" constant="20" id="sz0-Ot-dJi"/>
